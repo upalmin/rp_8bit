@@ -1,8 +1,8 @@
 /*
 	sim_rp8bit.c
 
-	Copyright 2008, 2009 Michel Pollet <buserror@gmail.com>
-	                     Jon Escombe <lists@dresco.co.uk>
+	Copyright 2008, 2009 Uroš Palmin <upalmin@gmail.com>
+	                     
 
  	This file is part of simavr.
 
